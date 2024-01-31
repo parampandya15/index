@@ -1,0 +1,46 @@
+.k {
+    margin: auto;
+    width: 120px;
+}
+
+.k img {
+    width: 120px;
+
+}
+
+.n {
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+}
+
+/* .n h3{
+    text-align: center;
+} */
+
+
+
+.bluecolor {
+    color: blue;
+}
+
+#mh24507 {
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+}
+
+#mh24507 table {
+    margin: auto;
+    border: 1px solid black;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+.list {
+    text-align: left;
+}
